@@ -1,0 +1,20 @@
+# Flutter / Dart (pubspec.lock IS committed for apps)
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Model weights & artifacts (never commit these)
+*.onnx
+*.gguf
+*.tflite
+*.mlmodel
+*.mlpackage
+*.bin
+
+# OS / editor
+.DS_Store
+.idea/
