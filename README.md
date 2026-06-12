@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="AgentCanvas — Phase 5 · The Imagination · an on-device agent that builds its own UI" width="100%"></p>
+
 # AgentCanvas — an on-device agent that builds its own UI
 
 ![Phase](https://img.shields.io/badge/Phase%205-The%20Imagination-7C3AED)
